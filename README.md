@@ -2,7 +2,7 @@
 
 多用于往期回顾等图片列表之类的。
 
-##### 效果图（[点击预览完整页面](http://htmlpreview.github.io/?https://github.com/vitaxu/tabBar/blob/master/index.html "点击预览")）
+##### 效果图（[点击预览完整页面](https://vitaxu.github.io/tabBar/ "点击预览")）
 
 ![](http://i.imgur.com/AqdAwsm.gif)
 
