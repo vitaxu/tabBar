@@ -16,11 +16,11 @@
  
 ```html
 <div class="list" id="rList">
-	<a class="prev" id="rPrev"><span title="上一页"></span></a>
-	<a class="next" id="rNext"><span title="下一页"></span></a>
-	<ul>
-  		<li></li><li></li><li></li><li></li>
-	</ul>
+  <a class="prev" id="rPrev"><span title="上一页"></span></a>
+  <a class="next" id="rNext"><span title="下一页"></span></a>
+  <ul>
+    <li></li><li></li><li></li><li></li>
+  </ul>
 </div>
 ```
 外部用一个元素包裹图片列表和切换按钮，这个元素必须定义一个id值。
