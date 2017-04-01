@@ -28,7 +28,9 @@
 
 ##### js调用
 
-`tabBar({wrap: "rList", num: 6, prevBtn: "rPrev", nextBtn: "rNext"});`
+```javascript
+tabBar({wrap: "rList", num: 6, prevBtn: "rPrev", nextBtn: "rNext"});
+```
 
 
 参数说明：
